@@ -1,0 +1,2 @@
+# lafnsm
+Daily digest notes
